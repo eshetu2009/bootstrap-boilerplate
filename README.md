@@ -8,7 +8,7 @@ This is a website.
 
 This Poroject includes:
 
--index.html
--CSS/style.css
--JS
--IMG
+- index.html
+- CSS/style.css
+- JS
+- IMG
